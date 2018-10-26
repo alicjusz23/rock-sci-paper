@@ -1,0 +1,14 @@
+div {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.user {
+  cursor: pointer;
+  height: 150pt;
+}
+
+p{
+  font-size: 20pt;
+}

@@ -1,0 +1,17 @@
+M-K
+s-s	=> remis
+p-p	=> remis
+r-r	=> remis
+
+s-r	=> K	02
+p-r	=> M	12
+
+r-p	=> K	21
+s-p	=> M	01
+
+p-s	=> K	10
+r-s	=> M	20
+
+
+012
+spr
